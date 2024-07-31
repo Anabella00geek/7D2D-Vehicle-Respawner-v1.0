@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+	<Name value="Ana_Vehicle_Respawner" />
+	<Author value="Anabella" />
+	<Description value="Respawns cars, buses, army trucks, and other vehicles." />
+	<DisplayName value="Ana's Vehicle Respawner" />
+	<Website value="" />
+	<Version value="1.0.0" />
+	<GameVersion value="1.0.333" />
+</xml>
